@@ -1,0 +1,2 @@
+// magicsquare for odd number 
+
