@@ -28,7 +28,7 @@ int main () {
 		i--;
 		j++;
 
-		if (magicArry[i][j] == 0) {
+		if (magicArry[i][j] !== 0) {
 			i++;
 			j;
 		}
